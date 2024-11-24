@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Hub.unity
+    guid: 42f675718d4b04f6c9be2df832fddab8
+  - enabled: 1
+    path: Assets/Scenes/NoDOTS/NoDOTS 1.unity
+    guid: 0e4ff76a1ee3a40e780d1636dc159f2b
+  - enabled: 1
+    path: Assets/Scenes/NoDOTS/NoDOTS 2.unity
+    guid: 9fed2a847bad7453b88a5fd54b704f51
+  - enabled: 1
+    path: Assets/Scenes/NoDOTS/NoDOTS 3.unity
+    guid: 81115d63a1f9640998e444bd1645e305
+  - enabled: 1
+    path: Assets/Scenes/DOTS/DOTS 1.unity
+    guid: ed0f65bc4f05b432f9dbf8e3299e53dc
+  - enabled: 1
+    path: Assets/Scenes/DOTS/DOTS 2.unity
+    guid: f4a3837ddc3f84502b5978b949f1a51a
+  - enabled: 1
+    path: Assets/Scenes/DOTS/DOTS 3.unity
+    guid: 45b047f07aa604aaa842e3cac63169f1
+  - enabled: 1
+    path: Assets/Scenes/DOTSJobs/DOTSJobs 1.unity
+    guid: de5d06e47879349b6bd2e9f327c00bde
+  - enabled: 1
+    path: Assets/Scenes/DOTSJobs/DOTSJobs 2.unity
+    guid: 611c06f507e3a4bfa9baec6d9bd47853
+  - enabled: 1
+    path: Assets/Scenes/DOTSJobs/DOTSJobs 3.unity
+    guid: bc6c1a30cc5e34b4a93351d3fcf57e9e
+  m_configObjects: {}
